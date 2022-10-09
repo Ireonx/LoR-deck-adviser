@@ -15,7 +15,7 @@ options.add_argument("--headless")
 driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options = options)
 
 driver.get("https://masteringruneterra.com/meta-tier-list/")
-table = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "meta-archetypes-content")))
+table = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, "meta-archetypes-content")))
 soup = BeautifulSoup(table.get_attribute("innerHTML"), 'html.parser')
 driver.close()
 

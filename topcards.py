@@ -36,8 +36,8 @@ for champ in df[df1.columns].columns:
 toprint = sorted(rating, key=lambda x: x[1], reverse=True)
 file_object = open('rating.txt', 'w')
 for i in range(1, len(toprint)+1):
-    strin = f"{i}. Champion {toprint[i-1][0]} has a rating of {toprint[i-1][1]:.2f} and combines with {toprint[i-1][2]} \n"
-    print(strin)
+    strin = f"{i}. Champion {toprint[i-1][0]}\nRating: {toprint[i-1][1]:.2f}.\nLads: {toprint[i-1][2]} \n"
+    print(">", strin)
     file_object.write(strin)
 file_object.close()
 
