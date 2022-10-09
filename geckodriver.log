@@ -1,0 +1,1170 @@
+1665222151453	geckodriver	INFO	Listening on 127.0.0.1:8823
+1665222154505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilevmP0Cs"
+1665222230590	geckodriver	INFO	Listening on 127.0.0.1:9467
+1665222233642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileDmiao6"
+1665222234072	Marionette	INFO	Marionette enabled
+1665222234078	Marionette	INFO	Listening on port 9478
+Read port: 9478
+WebDriver BiDi listening on ws://127.0.0.1:9468
+1665222234284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileDmiao6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9468/devtools/browser/24b1d4d8-f86a-4ca3-9796-3de99b26d9f6
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-3:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 889 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665222271391	Marionette	INFO	Stopped listening on port 9478
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileDmiao6\protections.sqlite
+1665222311907	geckodriver	INFO	Listening on 127.0.0.1:2423
+1665222314954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileUMWtcI"
+1665222315287	Marionette	INFO	Marionette enabled
+1665222315291	Marionette	INFO	Listening on port 2434
+WebDriver BiDi listening on ws://127.0.0.1:2424
+Read port: 2434
+1665222315585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileUMWtcI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2424/devtools/browser/6f05a193-8af3-48d4-9f1b-109a4a4c4089
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-272:pr2732:e02942a&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665222332564	Marionette	INFO	Stopped listening on port 2434
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileUMWtcI\protections.sqlite
+1665222349508	geckodriver	INFO	Listening on 127.0.0.1:1170
+1665222352546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile2eptuh"
+1665222352866	Marionette	INFO	Marionette enabled
+1665222352873	Marionette	INFO	Listening on port 1182
+Read port: 1182
+WebDriver BiDi listening on ws://127.0.0.1:1171
+1665222352973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile2eptuh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1171/devtools/browser/57572ec2-d545-432b-ba33-19a29848e70b
+JavaScript warning: https://ads.adthrive.com/builds/core/a1cd8a8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-299:pr2756:a1cd8a8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/a1cd8a8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665222407539	geckodriver	INFO	Listening on 127.0.0.1:1914
+1665222410598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilelPZnm6"
+1665222410952	Marionette	INFO	Marionette enabled
+1665222410956	Marionette	INFO	Listening on port 1926
+WebDriver BiDi listening on ws://127.0.0.1:1915
+Read port: 1926
+1665222411278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilelPZnm6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1915/devtools/browser/bb2c24d4-967d-4db0-afb3-d2000b04145d
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-369:pr2743:f4f58ff&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 7335 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665222425697	Marionette	INFO	Stopped listening on port 1926
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilelPZnm6\protections.sqlite
+1665222998359	geckodriver	INFO	Listening on 127.0.0.1:32485
+1665223328458	geckodriver	INFO	Listening on 127.0.0.1:32946
+1665223331511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilegHkEki"
+1665223331841	Marionette	INFO	Marionette enabled
+1665223331846	Marionette	INFO	Listening on port 32966
+WebDriver BiDi listening on ws://127.0.0.1:32947
+Read port: 32966
+1665223332186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilegHkEki\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32947/devtools/browser/d5676347-c4c1-4efb-ac92-a334a09e3d39
+JavaScript warning: https://ads.adthrive.com/builds/core/4f48313/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-386:pr2748:4f48313&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4f48313/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665223349322	Marionette	INFO	Stopped listening on port 32966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilegHkEki\protections.sqlite
+1665223408031	geckodriver	INFO	Listening on 127.0.0.1:1103
+1665223411070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile3TY7o3"
+1665223411467	Marionette	INFO	Marionette enabled
+1665223411473	Marionette	INFO	Listening on port 1118
+Read port: 1118
+WebDriver BiDi listening on ws://127.0.0.1:1104
+1665223411611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile3TY7o3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1104/devtools/browser/2b9833fc-9b1c-4ed1-a92f-b89690c00349
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-320:pr2733:c5fc78b&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 5388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665224209005	Marionette	INFO	Stopped listening on port 1118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "1351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilenAqRGH"
+1665223692605	Marionette	INFO	Marionette enabled
+1665223692611	Marionette	INFO	Listening on port 1364
+Read port: 1364
+WebDriver BiDi listening on ws://127.0.0.1:1351
+1665223692716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilenAqRGH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1351/devtools/browser/15666562-65f5-48fa-8cb1-132bd339e2ae
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-248:pr2764:693a1c4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 951 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665223834461	Marionette	INFO	Stopped listening on port 1364
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1665224380596	geckodriver	INFO	Listening on 127.0.0.1:2483
+1665224383657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile8OA0dU"
+1665224383956	Marionette	INFO	Marionette enabled
+1665224383960	Marionette	INFO	Listening on port 2495
+Read port: 2495
+WebDriver BiDi listening on ws://127.0.0.1:2484
+1665224384055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile8OA0dU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2484/devtools/browser/3601008c-31bb-4414-8f80-e004f6299897
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-320:pr2733:c5fc78b&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript error: https://ads.adthrive.com/builds/core/c5fc78b/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-320:pr2733:c5fc78b&experiments=rubiconFloors,recencyFrequency, line 3: TypeError: this._slot.element.parentElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4992 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665224664722	Marionette	INFO	Stopped listening on port 2495
+[Parent 11548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+port 6420
+Read port: 6420
+WebDriver BiDi listening on ws://127.0.0.1:6407
+1665224589077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilebMm6Do\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6407/devtools/browser/cbf1476b-da0c-459f-88e2-f8983acf786f
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-248:pr2764:693a1c4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1782 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665224652492	Marionette	INFO	Stopped listening on port 6420
+1665224655826	geckodriver	INFO	Listening on 127.0.0.1:7224
+1665224658875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile1olKYh"
+1665224659214	Marionette	INFO	Marionette enabled
+1665224659218	Marionette	INFO	Listening on port 7235
+WebDriver BiDi listening on ws://127.0.0.1:7225
+Read port: 7235
+1665224659529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile1olKYh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7225/devtools/browser/5ad8e64a-167d-4c54-9f79-640fab1991e9
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-369:pr2743:f4f58ff&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665224667185	Marionette	INFO	Stopped listening on port 7235
+[Parent 19612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665224690654	geckodriver	INFO	Listening on 127.0.0.1:7468
+1665224693701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilepXjZo3"
+1665224694042	Marionette	INFO	Marionette enabled
+1665224694048	Marionette	INFO	Listening on port 7479
+WebDriver BiDi listening on ws://127.0.0.1:7469
+Read port: 7479
+1665224694348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilepXjZo3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7469/devtools/browser/c33a0ec6-eec9-45d8-895c-0ce6898bd34c
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-248:pr2764:693a1c4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4308 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665224700949	Marionette	INFO	Stopped listening on port 7479
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1665224862246	geckodriver	INFO	Listening on 127.0.0.1:1167
+1665224865302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileS0srBq"
+1665224865600	Marionette	INFO	Marionette enabled
+1665224865604	Marionette	INFO	Listening on port 1178
+Read port: 1178
+WebDriver BiDi listening on ws://127.0.0.1:1168
+1665224865705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileS0srBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1168/devtools/browser/ffaf9264-ca36-41be-894f-fbafb6ceb285
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-384:pr2750:9ff63c8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1764 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665224875121	Marionette	INFO	Stopped listening on port 1178
+[Parent 13536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileS0srBq\protections.sqlite
+1665224905343	geckodriver	INFO	Listening on 127.0.0.1:28988
+1665224908395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileWyNo1c"
+1665224908695	Marionette	INFO	Marionette enabled
+1665224908700	Marionette	INFO	Listening on port 29000
+Read port: 29000
+WebDriver BiDi listening on ws://127.0.0.1:28989
+1665224908802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileWyNo1c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:28989/devtools/browser/b33f1f01-58f7-4082-a4b5-9187b5b1d270
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 5513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665224919019	Marionette	INFO	Stopped listening on port 29000
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileWyNo1c\protections.sqlite
+1665224999783	geckodriver	INFO	Listening on 127.0.0.1:24561
+1665225002840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileDNlpLJ"
+1665225003147	Marionette	INFO	Marionette enabled
+1665225003151	Marionette	INFO	Listening on port 24578
+Read port: 24578
+WebDriver BiDi listening on ws://127.0.0.1:24562
+1665225003245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileDNlpLJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:24562/devtools/browser/cc9a70e3-fe02-46b3-a2d2-296239148cb0
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-384:pr2750:9ff63c8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665225010265	Marionette	INFO	Stopped listening on port 24578
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileDNlpLJ\protections.sqlite
+1665225078286	geckodriver	INFO	Listening on 127.0.0.1:24845
+1665225081338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileInr2Hi"
+1665225081648	Marionette	INFO	Marionette enabled
+1665225081652	Marionette	INFO	Listening on port 24860
+Read port: 24860
+WebDriver BiDi listening on ws://127.0.0.1:24846
+1665225081749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileInr2Hi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:24846/devtools/browser/e212ff1b-8be2-496b-9f47-6763b5872c23
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-3:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4139 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665225089982	Marionette	INFO	Stopped listening on port 24860
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileInr2Hi\protections.sqlite
+1665225116205	geckodriver	INFO	Listening on 127.0.0.1:25129
+1665225119278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile5XcJRC"
+1665225119689	Marionette	INFO	Marionette enabled
+1665225119694	Marionette	INFO	Listening on port 25146
+Read port: 25146
+WebDriver BiDi listening on ws://127.0.0.1:25130
+1665225119812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665225129291	geckodriver	INFO	Listening on 127.0.0.1:25158
+1665225132365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileDKnGep"
+1665225132656	Marionette	INFO	Marionette enabled
+1665225132660	Marionette	INFO	Listening on port 25169
+Read port: 25169
+WebDriver BiDi listening on ws://127.0.0.1:25159
+1665225132761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileDKnGep\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25159/devtools/browser/e7461225-47a9-415f-9789-e2014a1b3521
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-384:pr2750:9ff63c8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3550 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665225140026	Marionette	INFO	Stopped listening on port 25169
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileDKnGep\protections.sqlite
+[GFX1-]: Failed to OpenSharedResource for SyncObjectD3D11: 0x80070057
+1665225216623	geckodriver	INFO	Listening on 127.0.0.1:25477
+1665225219673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofiletwzwj8"
+1665225219978	Marionette	INFO	Marionette enabled
+1665225219983	Marionette	INFO	Listening on port 25489
+Read port: 25489
+WebDriver BiDi listening on ws://127.0.0.1:25478
+1665225220076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofiletwzwj8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25478/devtools/browser/849b9c34-4543-42aa-b861-4fe9162ff7a7
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 5907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665225227992	Marionette	INFO	Stopped listening on port 25489
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofiletwzwj8\protections.sqlite
+1665225280291	geckodriver	INFO	Listening on 127.0.0.1:24483
+1665225283361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilezV4Ca7"
+1665225283667	Marionette	INFO	Marionette enabled
+1665225283672	Marionette	INFO	Listening on port 24497
+Read port: 24497
+WebDriver BiDi listening on ws://127.0.0.1:24484
+1665225283774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilezV4Ca7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:24484/devtools/browser/0418d9e5-445f-4a36-8826-8840db330d2c
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-248:pr2764:693a1c4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1387 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665225291904	Marionette	INFO	Stopped listening on port 24497
+[Parent 17700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilezV4Ca7\protections.sqlite
+1665225370490	geckodriver	INFO	Listening on 127.0.0.1:1117
+1665225373543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileXAeGSz"
+1665225373850	Marionette	INFO	Marionette enabled
+1665225373854	Marionette	INFO	Listening on port 1131
+Read port: 1131
+WebDriver BiDi listening on ws://127.0.0.1:1118
+1665225373949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileXAeGSz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1118/devtools/browser/f0d93f47-24a8-48b6-86a9-4f19b2fdd5ff
+JavaScript warning: https://ads.adthrive.com/builds/core/5410bb8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-270:pr2678:5410bb8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/5410bb8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665225383797	Marionette	INFO	Stopped listening on port 1131
+[Parent 5596, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileXAeGSz\protections.sqlite
+1665227228823	geckodriver	INFO	Listening on 127.0.0.1:1984
+1665227231876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile4NuDIR"
+1665227232168	Marionette	INFO	Marionette enabled
+1665227232172	Marionette	INFO	Listening on port 1996
+Read port: 1996
+WebDriver BiDi listening on ws://127.0.0.1:1985
+1665227232277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile4NuDIR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1985/devtools/browser/78fa56ed-607d-4723-aa5b-eeaca2eeae7b
+JavaScript warning: https://ads.adthrive.com/builds/core/a1cd8a8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-299:pr2756:a1cd8a8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/a1cd8a8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665227307595	Marionette	INFO	Stopped listening on port 1996
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile4NuDIR\protections.sqlite
+1665227648796	geckodriver	INFO	Listening on 127.0.0.1:10209
+1665227651841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileerKM2b"
+1665227652185	Marionette	INFO	Marionette enabled
+1665227652191	Marionette	INFO	Listening on port 10221
+Read port: 10221
+WebDriver BiDi listening on ws://127.0.0.1:10210
+1665227652367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileerKM2b\\search.json.mozlz4", (void 0)))
+1665227654222	Marionette	INFO	Stopped listening on port 10221
+1665227654242	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665227665150	geckodriver	INFO	Listening on 127.0.0.1:10248
+1665227668214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilepuCQ56"
+1665227668507	Marionette	INFO	Marionette enabled
+1665227668511	Marionette	INFO	Listening on port 10260
+Read port: 10260
+WebDriver BiDi listening on ws://127.0.0.1:10249
+1665227668604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilepuCQ56\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:10249/devtools/browser/0e708ee6-b089-4a97-9a3e-d7abd4c950c7
+JavaScript warning: https://ads.adthrive.com/builds/core/d4a3c5d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-379:pr2739:d4a3c5d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 82 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/d4a3c5d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665227678007	Marionette	INFO	Stopped listening on port 10260
+[Parent 24240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilepuCQ56\protections.sqlite
+1665227941226	geckodriver	INFO	Listening on 127.0.0.1:1158
+1665227944280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile7YkYTc"
+1665227944617	Marionette	INFO	Marionette enabled
+1665227944621	Marionette	INFO	Listening on port 1175
+WebDriver BiDi listening on ws://127.0.0.1:1159
+Read port: 1175
+1665227944924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile7YkYTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1159/devtools/browser/3ff48615-df19-44d1-8a04-8d9a47ff6c0a
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-3:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 6052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665227994265	Marionette	INFO	Stopped listening on port 1175
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile7YkYTc\protections.sqlite
+1665228178412	geckodriver	INFO	Listening on 127.0.0.1:1743
+1665228181476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileOKWVDq"
+1665228181783	Marionette	INFO	Marionette enabled
+1665228181788	Marionette	INFO	Listening on port 1760
+Read port: 1760
+WebDriver BiDi listening on ws://127.0.0.1:1744
+1665228181881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileOKWVDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1744/devtools/browser/3343b571-c777-4404-91e0-a40fcf2df732
+JavaScript warning: https://ads.adthrive.com/builds/core/56ad410/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-400:pr2761:56ad410&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/56ad410/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1882 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665228256729	Marionette	INFO	Stopped listening on port 1760
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileOKWVDq\protections.sqlite
+1665228282085	geckodriver	INFO	Listening on 127.0.0.1:16611
+1665228285129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileuRnZbn"
+1665228285446	Marionette	INFO	Marionette enabled
+1665228285450	Marionette	INFO	Listening on port 16622
+Read port: 16622
+WebDriver BiDi listening on ws://127.0.0.1:16612
+1665228285554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileuRnZbn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:16612/devtools/browser/6d36e489-cc99-4ae4-994e-8fd70db49cde
+JavaScript warning: https://ads.adthrive.com/builds/core/4015280/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-373:pr2753:4015280&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4015280/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665228294909	Marionette	INFO	Stopped listening on port 16622
+1665228369396	geckodriver	INFO	Listening on 127.0.0.1:16947
+1665228372462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileA9HGy6"
+1665228372771	Marionette	INFO	Marionette enabled
+1665228372776	Marionette	INFO	Listening on port 16958
+Read port: 16958
+WebDriver BiDi listening on ws://127.0.0.1:16948
+1665228372870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileA9HGy6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:16948/devtools/browser/468094cb-0ad5-4079-b582-4ed0e9124ffa
+JavaScript warning: https://ads.adthrive.com/builds/core/56ad410/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-400:pr2761:56ad410&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/56ad410/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 6026 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665228385078	Marionette	INFO	Stopped listening on port 16958
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileA9HGy6\protections.sqlite
+1665228398197	geckodriver	INFO	Listening on 127.0.0.1:17373
+1665228401238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "17374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileLSyc9F"
+1665228401582	Marionette	INFO	Marionette enabled
+1665228401586	Marionette	INFO	Listening on port 17385
+WebDriver BiDi listening on ws://127.0.0.1:17374
+Read port: 17385
+1665228401887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileLSyc9F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:17374/devtools/browser/2cfa8967-5ed0-4aea-ad57-82a1cceed7bb
+JavaScript warning: https://ads.adthrive.com/builds/core/e68aaf4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-342:pr2697:e68aaf4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/e68aaf4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665228434230	Marionette	INFO	Stopped listening on port 17385
+1665228555713	geckodriver	INFO	Listening on 127.0.0.1:1806
+1665228565622	geckodriver	INFO	Listening on 127.0.0.1:1820
+1665228568691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJt92KO"
+1665228568992	Marionette	INFO	Marionette enabled
+1665228568997	Marionette	INFO	Listening on port 1831
+Read port: 1831
+WebDriver BiDi listening on ws://127.0.0.1:1821
+1665228569090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJt92KO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1821/devtools/browser/9b79d392-a29f-4ffd-adf9-9a3798828fa0
+JavaScript warning: https://ads.adthrive.com/builds/core/d4a3c5d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-379:pr2739:d4a3c5d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 6620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/d4a3c5d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665228673106	Marionette	INFO	Stopped listening on port 1831
+[Parent 25412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileJt92KO\protections.sqlite
+1665228708512	geckodriver	INFO	Listening on 127.0.0.1:2737
+1665228711565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilegmJXfQ"
+1665228711866	Marionette	INFO	Marionette enabled
+1665228711870	Marionette	INFO	Listening on port 2754
+Read port: 2754
+WebDriver BiDi listening on ws://127.0.0.1:2738
+1665228711962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilegmJXfQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2738/devtools/browser/7efe9717-a345-4dc5-b3a2-11a27de621b4
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-320:pr2733:c5fc78b&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 7568 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665228722411	Marionette	INFO	Stopped listening on port 2754
+1665228796058	geckodriver	INFO	Listening on 127.0.0.1:3084
+1665228799124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileMPE2lc"
+1665228799415	Marionette	INFO	Marionette enabled
+1665228799419	Marionette	INFO	Listening on port 3095
+Read port: 3095
+WebDriver BiDi listening on ws://127.0.0.1:3085
+1665228799519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileMPE2lc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3085/devtools/browser/0cd92d0a-40b2-4d98-95e2-dc8d15f74d21
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-369:pr2743:f4f58ff&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 7129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665228876008	Marionette	INFO	Stopped listening on port 3095
+1665228890153	geckodriver	INFO	Listening on 127.0.0.1:3971
+1665228893221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilexthhYW"
+1665228893508	Marionette	INFO	Marionette enabled
+1665228893513	Marionette	INFO	Listening on port 3983
+Read port: 3983
+WebDriver BiDi listening on ws://127.0.0.1:3972
+1665228893606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilexthhYW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3972/devtools/browser/679ac673-25b6-46f6-bff8-89369e4d4f39
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-369:pr2743:f4f58ff&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665228902764	Marionette	INFO	Stopped listening on port 3983
+[Parent 20100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilexthhYW\protections.sqlite
+1665228919242	geckodriver	INFO	Listening on 127.0.0.1:10414
+1665228922313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileLZWLQ3"
+1665228922609	Marionette	INFO	Marionette enabled
+1665228922614	Marionette	INFO	Listening on port 10427
+Read port: 10427
+WebDriver BiDi listening on ws://127.0.0.1:10415
+1665228922707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileLZWLQ3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:10415/devtools/browser/e397a230-0339-4b4e-ac83-872c5e22df88
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-384:pr2750:9ff63c8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665228930741	Marionette	INFO	Stopped listening on port 10427
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileLZWLQ3\protections.sqlite
+1665229155744	geckodriver	INFO	Listening on 127.0.0.1:10836
+1665229158813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileXBZyPX"
+1665229159103	Marionette	INFO	Marionette enabled
+1665229159107	Marionette	INFO	Listening on port 10847
+Read port: 10847
+WebDriver BiDi listening on ws://127.0.0.1:10837
+1665229159201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileXBZyPX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:10837/devtools/browser/43feeed4-c0c8-4e2d-8b6d-994d663804ee
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665229225557	Marionette	INFO	Stopped listening on port 10847
+[Parent 25084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileXBZyPX\protections.sqlite
+1665229281881	geckodriver	INFO	Listening on 127.0.0.1:1190
+1665229284946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile0aUsm1"
+1665229285238	Marionette	INFO	Marionette enabled
+1665229285242	Marionette	INFO	Listening on port 1204
+Read port: 1204
+WebDriver BiDi listening on ws://127.0.0.1:1191
+1665229285338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile0aUsm1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1191/devtools/browser/286b79d6-e4d3-4c7f-8b8c-37495bca92fe
+JavaScript warning: https://ads.adthrive.com/builds/core/4015280/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-373:pr2753:4015280&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4015280/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 5884 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665229346222	Marionette	INFO	Stopped listening on port 1204
+[Parent 12020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile0aUsm1\protections.sqlite
+1665229377027	geckodriver	INFO	Listening on 127.0.0.1:1082
+1665229380085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile9D4pWn"
+1665229380378	Marionette	INFO	Marionette enabled
+1665229380382	Marionette	INFO	Listening on port 1094
+Read port: 1094
+WebDriver BiDi listening on ws://127.0.0.1:1083
+1665229380472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile9D4pWn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1083/devtools/browser/e4ff260d-55c7-4b0a-9f0f-7f400dd34fab
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-3:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2406 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665229458513	Marionette	INFO	Stopped listening on port 1094
+[Parent 23664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile9D4pWn\protections.sqlite
+1665229475398	geckodriver	INFO	Listening on 127.0.0.1:2043
+1665229478462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileBLUJQT"
+1665229478765	Marionette	INFO	Marionette enabled
+1665229478770	Marionette	INFO	Listening on port 2054
+Read port: 2054
+WebDriver BiDi listening on ws://127.0.0.1:2044
+1665229478867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileBLUJQT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2044/devtools/browser/cb7c728b-d84e-4edd-a25c-4c40f23049e8
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-111:pr2724:593e27d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665229486180	Marionette	INFO	Stopped listening on port 2054
+[Parent 21584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1665229510317	geckodriver	INFO	Listening on 127.0.0.1:2296
+1665229513365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileetFNRF"
+1665229513700	Marionette	INFO	Marionette enabled
+1665229513705	Marionette	INFO	Listening on port 2309
+WebDriver BiDi listening on ws://127.0.0.1:2297
+Read port: 2309
+1665229513957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileetFNRF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2297/devtools/browser/554c92bc-d957-4765-861b-fa28c4d76d21
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665229562809	Marionette	INFO	Stopped listening on port 2309
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileetFNRF\protections.sqlite
+1665229951830	geckodriver	INFO	Listening on 127.0.0.1:32641
+1665229954886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileD7NJmK"
+1665229955182	Marionette	INFO	Marionette enabled
+1665229955187	Marionette	INFO	Listening on port 32653
+Read port: 32653
+WebDriver BiDi listening on ws://127.0.0.1:32642
+1665229955280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileD7NJmK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32642/devtools/browser/dd8cf316-78ad-4d5f-98b9-c05b4e85ec53
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-384:pr2750:9ff63c8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230013412	Marionette	INFO	Stopped listening on port 32653
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileD7NJmK\protections.sqlite
+1665230041309	geckodriver	INFO	Listening on 127.0.0.1:18447
+1665230044336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "18448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileZVN3fb"
+1665230044649	Marionette	INFO	Marionette enabled
+1665230044653	Marionette	INFO	Listening on port 18458
+Read port: 18458
+WebDriver BiDi listening on ws://127.0.0.1:18448
+1665230044745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileZVN3fb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18448/devtools/browser/80e2697f-5793-4188-9568-94fd100059de
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-248:pr2764:693a1c4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665230060494	Marionette	INFO	Stopped listening on port 18458
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileZVN3fb\protections.sqlite
+1665230129852	geckodriver	INFO	Listening on 127.0.0.1:17128
+1665230132902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "17129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilezWYhTb"
+1665230133210	Marionette	INFO	Marionette enabled
+1665230133215	Marionette	INFO	Listening on port 17140
+Read port: 17140
+WebDriver BiDi listening on ws://127.0.0.1:17129
+1665230133321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilezWYhTb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:17129/devtools/browser/44853774-78a6-4140-928c-9733964c82c0
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-369:pr2743:f4f58ff&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2199 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230209417	Marionette	INFO	Stopped listening on port 17140
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilezWYhTb\protections.sqlite
+1665230486284	geckodriver	INFO	Listening on 127.0.0.1:1306
+1665230501250	geckodriver	INFO	Listening on 127.0.0.1:1317
+1665230504326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileE7aGLc"
+1665230504615	Marionette	INFO	Marionette enabled
+1665230504620	Marionette	INFO	Listening on port 1328
+Read port: 1328
+WebDriver BiDi listening on ws://127.0.0.1:1318
+1665230504726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileE7aGLc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1318/devtools/browser/7b319bdb-12ef-4528-8aab-536aedf505b3
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 7098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230518234	Marionette	INFO	Stopped listening on port 1328
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileE7aGLc\protections.sqlite
+1665230557270	geckodriver	INFO	Listening on 127.0.0.1:1740
+1665230560334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilei4Wa5O"
+1665230560653	Marionette	INFO	Marionette enabled
+1665230560658	Marionette	INFO	Listening on port 1753
+Read port: 1753
+WebDriver BiDi listening on ws://127.0.0.1:1741
+1665230560791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilei4Wa5O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1741/devtools/browser/ad868732-0854-4d71-821b-af8612dd5f11
+JavaScript warning: https://ads.adthrive.com/builds/core/5656450/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-400:pr2760:5656450&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/5656450/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230643968	Marionette	INFO	Stopped listening on port 1753
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilei4Wa5O\protections.sqlite
+1665230667909	geckodriver	INFO	Listening on 127.0.0.1:15582
+1665230670981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "15583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileqHrZc2"
+1665230671336	Marionette	INFO	Marionette enabled
+1665230671385	Marionette	INFO	Listening on port 15593
+Read port: 15593
+WebDriver BiDi listening on ws://127.0.0.1:15583
+1665230671648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileqHrZc2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:15583/devtools/browser/0af9c919-4184-49a5-a5bc-0736ac79b947
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230728783	geckodriver	INFO	Listening on 127.0.0.1:15773
+1665230731841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "15774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileuIiRJs"
+1665230732129	Marionette	INFO	Marionette enabled
+1665230732133	Marionette	INFO	Listening on port 15784
+Read port: 15784
+WebDriver BiDi listening on ws://127.0.0.1:15774
+1665230732225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileuIiRJs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:15774/devtools/browser/c160882d-60d2-4efe-90d1-42d8d2dc8078
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-3:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665230748928	Marionette	INFO	Stopped listening on port 15784
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileuIiRJs\protections.sqlite
+1665230777178	geckodriver	INFO	Listening on 127.0.0.1:16264
+1665230780237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJA1Nhv"
+1665230780527	Marionette	INFO	Marionette enabled
+1665230780532	Marionette	INFO	Listening on port 16275
+Read port: 16275
+WebDriver BiDi listening on ws://127.0.0.1:16265
+1665230780625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJA1Nhv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:16265/devtools/browser/84deb458-3594-4d0e-a701-66b9d75a0299
+JavaScript warning: https://ads.adthrive.com/builds/core/810eb9f/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-336:pr2728:810eb9f&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/810eb9f/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230853915	Marionette	INFO	Stopped listening on port 16275
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileJA1Nhv\protections.sqlite
+1665230909649	geckodriver	INFO	Listening on 127.0.0.1:7973
+1665230912723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileFEcAgl"
+1665230913023	Marionette	INFO	Marionette enabled
+1665230913028	Marionette	INFO	Listening on port 7984
+Read port: 7984
+WebDriver BiDi listening on ws://127.0.0.1:7974
+1665230913125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileFEcAgl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7974/devtools/browser/44dd629e-0fe6-47fb-ade5-a70379d46100
+JavaScript warning: https://ads.adthrive.com/builds/core/810eb9f/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-336:pr2728:810eb9f&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/810eb9f/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 7623 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665230982779	Marionette	INFO	Stopped listening on port 7984
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1665231193075	geckodriver	INFO	Listening on 127.0.0.1:1866
+1665231196144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilejIzWEY"
+1665231196454	Marionette	INFO	Marionette enabled
+1665231196458	Marionette	INFO	Listening on port 1877
+Read port: 1877
+WebDriver BiDi listening on ws://127.0.0.1:1867
+1665231196561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilejIzWEY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1867/devtools/browser/2e7cc27b-15b9-47e3-b881-13b59511c4e3
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=ad-1000:pr1000:hbs-q4:42ac6d4:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1652 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665231258181	Marionette	INFO	Stopped listening on port 1877
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilejIzWEY\protections.sqlite
+1665231402201	geckodriver	INFO	Listening on 127.0.0.1:4544
+1665231405265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "4545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileCp6i3C"
+*** You are running in headless mode.
+1665231405564	Marionette	INFO	Marionette enabled
+1665231405568	Marionette	INFO	Listening on port 4555
+Read port: 4555
+WebDriver BiDi listening on ws://127.0.0.1:4545
+1665231405653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileCp6i3C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4545/devtools/browser/5fc587bd-948f-4dbb-b4c5-02ec816b8adb
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-111:pr2724:593e27d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 5907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665231416240	Marionette	INFO	Stopped listening on port 4555
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileCp6i3C\protections.sqlite
+1665231719520	geckodriver	INFO	Listening on 127.0.0.1:5077
+1665231722579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "5078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileffodPr"
+*** You are running in headless mode.
+1665231722892	Marionette	INFO	Marionette enabled
+1665231722897	Marionette	INFO	Listening on port 5092
+Read port: 5092
+WebDriver BiDi listening on ws://127.0.0.1:5078
+1665231722978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileffodPr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5078/devtools/browser/83d82ed8-1a37-48fe-87dd-96461aa60579
+JavaScript warning: https://ads.adthrive.com/builds/core/4f48313/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-386:pr2748:4f48313&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4f48313/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665231729225	Marionette	INFO	Stopped listening on port 5092
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileffodPr\protections.sqlite
+1665233411403	geckodriver	INFO	Listening on 127.0.0.1:2140
+1665233414454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileIq8QzV"
+*** You are running in headless mode.
+1665233414768	Marionette	INFO	Marionette enabled
+1665233414772	Marionette	INFO	Listening on port 2151
+Read port: 2151
+WebDriver BiDi listening on ws://127.0.0.1:2141
+1665233414855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileIq8QzV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2141/devtools/browser/e3769708-0ad2-424a-a826-bde17fe71e1e
+JavaScript warning: https://ads.adthrive.com/builds/core/1aa8f11/es2018/js/adthrive.min.js?deployment=2022-10-07-3:adm-375:pr2742:1aa8f11&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 6138 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/1aa8f11/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665233474613	Marionette	INFO	Stopped listening on port 2151
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileIq8QzV\protections.sqlite
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1665233667867	geckodriver	INFO	Listening on 127.0.0.1:3129
+1665233670929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJLehbv"
+*** You are running in headless mode.
+1665233671218	Marionette	INFO	Marionette enabled
+1665233671222	Marionette	INFO	Listening on port 3140
+Read port: 3140
+WebDriver BiDi listening on ws://127.0.0.1:3130
+1665233671303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJLehbv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3130/devtools/browser/302e7bc2-743c-4926-86bd-7132530bbdb4
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-369:pr2743:f4f58ff&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 7824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/f4f58ff/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665233737611	Marionette	INFO	Stopped listening on port 3140
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileJLehbv\protections.sqlite
+1665237656082	geckodriver	INFO	Listening on 127.0.0.1:17595
+1665237659140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "17596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileICZthL"
+*** You are running in headless mode.
+1665237659449	Marionette	INFO	Marionette enabled
+1665237659453	Marionette	INFO	Listening on port 17606
+Read port: 17606
+WebDriver BiDi listening on ws://127.0.0.1:17596
+1665237659531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileICZthL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:17596/devtools/browser/5aa498d1-27b4-4dde-aa73-576f3a7201d6
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-320:pr2733:c5fc78b&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 3680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/c5fc78b/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665237666478	Marionette	INFO	Stopped listening on port 17606
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1665237725386	geckodriver	INFO	Listening on 127.0.0.1:17843
+1665237728430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "17844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileeNfH8u"
+*** You are running in headless mode.
+1665237728771	Marionette	INFO	Marionette enabled
+1665237728777	Marionette	INFO	Listening on port 17855
+WebDriver BiDi listening on ws://127.0.0.1:17844
+Read port: 17855
+1665237729100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileeNfH8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:17844/devtools/browser/1a1d307a-b808-4f92-8a69-51775641215b
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-384:pr2750:9ff63c8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/9ff63c8/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665237741650	Marionette	INFO	Stopped listening on port 17855
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileeNfH8u\protections.sqlite
+1665237812752	geckodriver	INFO	Listening on 127.0.0.1:1255
+1665237815794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileVM5Ha6"
+*** You are running in headless mode.
+1665237816087	Marionette	INFO	Marionette enabled
+1665237816091	Marionette	INFO	Listening on port 1266
+Read port: 1266
+WebDriver BiDi listening on ws://127.0.0.1:1256
+1665237816170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileVM5Ha6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1256/devtools/browser/b01b5d10-6e24-4370-a037-9aadbd431e08
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-272:pr2732:e02942a&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 1811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665237824617	Marionette	INFO	Stopped listening on port 1266
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileVM5Ha6\protections.sqlite
+1665237846726	geckodriver	INFO	Listening on 127.0.0.1:1575
+1665237849779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileR3Tqwh"
+*** You are running in headless mode.
+1665237850091	Marionette	INFO	Marionette enabled
+1665237850095	Marionette	INFO	Listening on port 1586
+Read port: 1586
+WebDriver BiDi listening on ws://127.0.0.1:1576
+1665237850165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileR3Tqwh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1576/devtools/browser/b8a3c11e-b66f-437f-8d29-56af54b5bfc0
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-272:pr2732:e02942a&experiments=rubiconFloors,recencyFrequency, line 3: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 430 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665237856608	Marionette	INFO	Stopped listening on port 1586
+[Parent 7648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileR3Tqwh\protections.sqlite
+1665237937950	geckodriver	INFO	Listening on 127.0.0.1:1752
+1665237941004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilemEolCA"
+*** You are running in headless mode.
+1665237941286	Marionette	INFO	Marionette enabled
+1665237941290	Marionette	INFO	Listening on port 1764
+Read port: 1764
+WebDriver BiDi listening on ws://127.0.0.1:1753
+1665237941368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilemEolCA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1753/devtools/browser/8a701287-6742-4dbe-bb5a-1326ea78bf93
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-111:pr2724:593e27d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665237972621	geckodriver	INFO	Listening on 127.0.0.1:1998
+1665237975691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileZSYrCC"
+*** You are running in headless mode.
+1665237976003	Marionette	INFO	Marionette enabled
+1665237976007	Marionette	INFO	Listening on port 2011
+Read port: 2011
+WebDriver BiDi listening on ws://127.0.0.1:1999
+1665237976087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileZSYrCC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1999/devtools/browser/c4029c6b-e61c-418c-91b0-bf37a2d42b5a
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-111:pr2724:593e27d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 6049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665237982106	Marionette	INFO	Stopped listening on port 2011
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileZSYrCC\protections.sqlite
+1665238040692	geckodriver	INFO	Listening on 127.0.0.1:2266
+1665238043740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileX39iHd"
+*** You are running in headless mode.
+1665238044038	Marionette	INFO	Marionette enabled
+1665238044042	Marionette	INFO	Listening on port 2277
+Read port: 2277
+WebDriver BiDi listening on ws://127.0.0.1:2267
+1665238044118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileX39iHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2267/devtools/browser/55ce8ba2-bd33-445e-84bd-c22914031837
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665238051937	Marionette	INFO	Stopped listening on port 2277
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileX39iHd\protections.sqlite
+1665238172715	geckodriver	INFO	Listening on 127.0.0.1:2660
+1665238175778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileJYJe62"
+*** You are running in headless mode.
+1665238176097	Marionette	INFO	Marionette enabled
+1665238176101	Marionette	INFO	Listening on port 2674
+Read port: 2674
+WebDriver BiDi listening on ws://127.0.0.1:2661
+1665238176180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665238180162	geckodriver	INFO	Listening on 127.0.0.1:2683
+1665238183219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileaYmkDa"
+*** You are running in headless mode.
+1665238183541	Marionette	INFO	Marionette enabled
+1665238183545	Marionette	INFO	Listening on port 2695
+Read port: 2695
+WebDriver BiDi listening on ws://127.0.0.1:2684
+1665238183626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileaYmkDa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2684/devtools/browser/c8dfd2af-a0bb-44f8-a67d-2fe520fe31f5
+JavaScript warning: https://ads.adthrive.com/builds/core/5410bb8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-270:pr2678:5410bb8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665238191925	Marionette	INFO	Stopped listening on port 2695
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileaYmkDa\protections.sqlite
+1665238228001	geckodriver	INFO	Listening on 127.0.0.1:2933
+1665238231059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileGISXU8"
+*** You are running in headless mode.
+1665238231352	Marionette	INFO	Marionette enabled
+1665238231356	Marionette	INFO	Listening on port 2944
+Read port: 2944
+WebDriver BiDi listening on ws://127.0.0.1:2934
+1665238231434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileGISXU8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2934/devtools/browser/897bf5cb-087e-4e11-9155-6ff1716373de
+JavaScript warning: https://ads.adthrive.com/builds/core/3a2fb78/es2018/js/adthrive.min.js?deployment=ad-1000:pr1000:hbs-q3:3a2fb78:exp&experiments=disablePrebidLoad,disableGptLoad,disableAmazonLoad, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665238236514	Marionette	INFO	Stopped listening on port 2944
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileGISXU8\protections.sqlite
+1665238466020	geckodriver	INFO	Listening on 127.0.0.1:3244
+1665238469064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileMVaIu2"
+*** You are running in headless mode.
+1665238469362	Marionette	INFO	Marionette enabled
+1665238469367	Marionette	INFO	Listening on port 3255
+Read port: 3255
+WebDriver BiDi listening on ws://127.0.0.1:3245
+1665238469449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileMVaIu2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3245/devtools/browser/86502725-deea-4313-be6a-d8e49a2d8710
+JavaScript warning: https://ads.adthrive.com/builds/core/e68aaf4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-342:pr2697:e68aaf4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665238479243	Marionette	INFO	Stopped listening on port 3255
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileMVaIu2\protections.sqlite
+1665238516963	geckodriver	INFO	Listening on 127.0.0.1:3509
+1665238520032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3510" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileKYZoFa"
+*** You are running in headless mode.
+1665238520340	Marionette	INFO	Marionette enabled
+1665238520344	Marionette	INFO	Listening on port 3520
+Read port: 3520
+WebDriver BiDi listening on ws://127.0.0.1:3510
+1665238520424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileKYZoFa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3510/devtools/browser/eb5842d8-bdd9-4b26-a493-cfb968736ea1
+JavaScript warning: https://ads.adthrive.com/builds/core/5410bb8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-270:pr2678:5410bb8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665238529576	Marionette	INFO	Stopped listening on port 3520
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileKYZoFa\protections.sqlite
+1665255392777	geckodriver	INFO	Listening on 127.0.0.1:25327
+1665255395860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "25328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilejQuXYG"
+*** You are running in headless mode.
+1665255396395	Marionette	INFO	Marionette enabled
+1665255396404	Marionette	INFO	Listening on port 25338
+WebDriver BiDi listening on ws://127.0.0.1:25328
+Read port: 25338
+1665255396704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilejQuXYG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25328/devtools/browser/e65372df-a2ee-481a-9c83-8207dfab937d
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665255402276	Marionette	INFO	Stopped listening on port 25338
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilejQuXYG\protections.sqlite
+1665255974075	geckodriver	INFO	Listening on 127.0.0.1:26004
+1665255977122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "26005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilePUSi5w"
+*** You are running in headless mode.
+1665255977424	Marionette	INFO	Marionette enabled
+1665255977429	Marionette	INFO	Listening on port 26015
+Read port: 26015
+WebDriver BiDi listening on ws://127.0.0.1:26005
+1665255977510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilePUSi5w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26005/devtools/browser/ccb99236-5414-4cfe-a834-a8d9861929ee
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-111:pr2724:593e27d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665255981503	Marionette	INFO	Stopped listening on port 26015
+1665256032684	geckodriver	INFO	Listening on 127.0.0.1:26150
+1665256035759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "26151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile0LtnHr"
+*** You are running in headless mode.
+1665256036059	Marionette	INFO	Marionette enabled
+1665256036064	Marionette	INFO	Listening on port 26161
+Read port: 26161
+WebDriver BiDi listening on ws://127.0.0.1:26151
+1665256036148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile0LtnHr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26151/devtools/browser/95dfa115-e452-400b-b61d-ac6309b32573
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-272:pr2732:e02942a&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/e02942a/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665256040567	Marionette	INFO	Stopped listening on port 26161
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile0LtnHr\protections.sqlite
+1665256086107	geckodriver	INFO	Listening on 127.0.0.1:26296
+1665256089162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "26297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile5pQx9d"
+*** You are running in headless mode.
+1665256089464	Marionette	INFO	Marionette enabled
+1665256089468	Marionette	INFO	Listening on port 26319
+Read port: 26319
+WebDriver BiDi listening on ws://127.0.0.1:26297
+1665256089551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile5pQx9d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26297/devtools/browser/60dbc315-0b7d-4c04-a302-de1e384ffc4e
+JavaScript warning: https://ads.adthrive.com/builds/core/1aa8f11/es2018/js/adthrive.min.js?deployment=2022-10-07-3:adm-375:pr2742:1aa8f11&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665256095444	Marionette	INFO	Stopped listening on port 26319
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile5pQx9d\protections.sqlite
+1665256136292	geckodriver	INFO	Listening on 127.0.0.1:26492
+1665256139341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "26493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileqrhlUL"
+*** You are running in headless mode.
+1665256139640	Marionette	INFO	Marionette enabled
+1665256139644	Marionette	INFO	Listening on port 26504
+Read port: 26504
+WebDriver BiDi listening on ws://127.0.0.1:26493
+1665256139725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileqrhlUL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26493/devtools/browser/f4a7274b-53cb-4e93-aa6c-426dbaddaf09
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=ad-1000:pr1000:hbs-q3:3a2fb78:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665256143297	Marionette	INFO	Stopped listening on port 26504
+[Parent 22652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665256157885	geckodriver	INFO	Listening on 127.0.0.1:26596
+1665256160947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "26597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile006Qjg"
+*** You are running in headless mode.
+1665256161249	Marionette	INFO	Marionette enabled
+1665256161253	Marionette	INFO	Listening on port 26608
+Read port: 26608
+WebDriver BiDi listening on ws://127.0.0.1:26597
+1665256161332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile006Qjg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26597/devtools/browser/d6864b82-742e-405a-bd7b-1820da24a166
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-248:pr2764:693a1c4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/693a1c4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665256166027	Marionette	INFO	Stopped listening on port 26608
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile006Qjg\protections.sqlite
+1665256266956	geckodriver	INFO	Listening on 127.0.0.1:26817
+1665256270025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "26818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile92M3pb"
+*** You are running in headless mode.
+1665256270332	Marionette	INFO	Marionette enabled
+1665256270336	Marionette	INFO	Listening on port 26828
+Read port: 26828
+WebDriver BiDi listening on ws://127.0.0.1:26818
+1665256270420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile92M3pb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26818/devtools/browser/42b27d58-3a74-4e17-aab8-389f03d5e169
+JavaScript warning: https://ads.adthrive.com/builds/core/a1cd8a8/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-299:pr2756:a1cd8a8&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665256278303	Marionette	INFO	Stopped listening on port 26828
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 2374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile92M3pb\protections.sqlite
+1665256449291	geckodriver	INFO	Listening on 127.0.0.1:27126
+1665256452360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "27127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileZ3ZUgW"
+*** You are running in headless mode.
+1665256452663	Marionette	INFO	Marionette enabled
+1665256452667	Marionette	INFO	Listening on port 27137
+Read port: 27137
+WebDriver BiDi listening on ws://127.0.0.1:27127
+1665256452748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileZ3ZUgW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:27127/devtools/browser/44604cf7-6fcd-4634-83fc-f8c56bfce6fe
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-5:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665256464529	Marionette	INFO	Stopped listening on port 27137
+1665256840659	geckodriver	INFO	Listening on 127.0.0.1:17927
+1665256843707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "17928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileNGbWPt"
+*** You are running in headless mode.
+1665256844022	Marionette	INFO	Marionette enabled
+1665256844027	Marionette	INFO	Listening on port 17938
+Read port: 17938
+WebDriver BiDi listening on ws://127.0.0.1:17928
+1665256844107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileNGbWPt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:17928/devtools/browser/c9d5c2a6-3e37-4df6-a950-7bdbc1f9017a
+JavaScript warning: https://ads.adthrive.com/builds/core/d4a3c5d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-379:pr2739:d4a3c5d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/d4a3c5d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665256849154	Marionette	INFO	Stopped listening on port 17938
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileNGbWPt\protections.sqlite
+1665256862508	geckodriver	INFO	Listening on 127.0.0.1:18076
+1665256865562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "18077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileHvrf73"
+*** You are running in headless mode.
+1665256865854	Marionette	INFO	Marionette enabled
+1665256865858	Marionette	INFO	Listening on port 18088
+Read port: 18088
+WebDriver BiDi listening on ws://127.0.0.1:18077
+1665256865950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileHvrf73\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18077/devtools/browser/262d39aa-17df-4cf7-ae8b-094c41680fd1
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-111:pr2724:593e27d&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/593e27d/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665256872389	Marionette	INFO	Stopped listening on port 18088
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1665257173235	geckodriver	INFO	Listening on 127.0.0.1:1115
+1665257176314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile4HDxnR"
+*** You are running in headless mode.
+1665257176632	Marionette	INFO	Marionette enabled
+1665257176636	Marionette	INFO	Listening on port 1128
+Read port: 1128
+WebDriver BiDi listening on ws://127.0.0.1:1116
+1665257176719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofile4HDxnR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1116/devtools/browser/60d08c7d-9929-446a-9653-1b77d74bc545
+JavaScript warning: https://ads.adthrive.com/builds/core/4a47a73/es2018/js/adthrive.min.js?deployment=2022-10-07-3:4a47a73:con&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665257186409	Marionette	INFO	Stopped listening on port 1128
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gnLtmcL-mn53pq-EJRMXOCFACjpZd0iqiIv80oTeKas.js line 2 > eval line 4089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofile4HDxnR\protections.sqlite
+1665257265372	geckodriver	INFO	Listening on 127.0.0.1:1396
+1665257268436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilent9uSi"
+*** You are running in headless mode.
+1665257268953	Marionette	INFO	Marionette enabled
+1665257268958	Marionette	INFO	Listening on port 1408
+Read port: 1408
+WebDriver BiDi listening on ws://127.0.0.1:1397
+1665257269080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilent9uSi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1397/devtools/browser/3281333d-44b1-4984-ae2e-377e37450f10
+JavaScript warning: https://ads.adthrive.com/builds/core/56ad410/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-400:pr2761:56ad410&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665257278237	Marionette	INFO	Stopped listening on port 1408
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilent9uSi\protections.sqlite
+1665257289967	geckodriver	INFO	Listening on 127.0.0.1:1632
+1665257293026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileLSpvMa"
+*** You are running in headless mode.
+1665257293335	Marionette	INFO	Marionette enabled
+1665257293340	Marionette	INFO	Listening on port 1644
+Read port: 1644
+WebDriver BiDi listening on ws://127.0.0.1:1633
+1665257293421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileLSpvMa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1633/devtools/browser/16d7095b-cd89-458c-83cb-773333fec2e1
+JavaScript warning: https://ads.adthrive.com/builds/core/4f48313/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-386:pr2748:4f48313&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665257297384	Marionette	INFO	Stopped listening on port 1644
+[Parent 21912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofileLSpvMa\protections.sqlite
+1665257305790	geckodriver	INFO	Listening on 127.0.0.1:1759
+1665257308837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileubqDpw"
+*** You are running in headless mode.
+1665257309141	Marionette	INFO	Marionette enabled
+1665257309145	Marionette	INFO	Listening on port 1772
+Read port: 1772
+WebDriver BiDi listening on ws://127.0.0.1:1760
+1665257309225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofileubqDpw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1760/devtools/browser/a21487d2-9423-4d2e-8faa-4387a9db1ac2
+JavaScript warning: https://ads.adthrive.com/builds/core/5656450/es2018/js/adthrive.min.js?deployment=2022-10-07-5:ade-400:pr2760:5656450&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.adthrive.com/builds/core/5656450/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+1665257320048	Marionette	INFO	Stopped listening on port 1772
+[Parent 21272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665257352784	geckodriver	INFO	Listening on 127.0.0.1:27722
+1665257355856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "27723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilerBMWwQ"
+*** You are running in headless mode.
+1665257356172	Marionette	INFO	Marionette enabled
+1665257356176	Marionette	INFO	Listening on port 27733
+Read port: 27733
+WebDriver BiDi listening on ws://127.0.0.1:27723
+1665257356282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofilerBMWwQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:27723/devtools/browser/db8309b9-a0a8-4f43-82c9-42c8d54c57bd
+JavaScript warning: https://ads.adthrive.com/builds/core/e68aaf4/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-342:pr2697:e68aaf4&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665257371396	Marionette	INFO	Stopped listening on port 27733
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofilerBMWwQ\protections.sqlite
+[Parent 17996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665258509502	geckodriver	INFO	Listening on 127.0.0.1:28780
+1665301906410	geckodriver	INFO	Listening on 127.0.0.1:1103
+1665301909470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofiletwDCqn"
+*** You are running in headless mode.
+1665301909967	Marionette	INFO	Marionette enabled
+1665301909972	Marionette	INFO	Listening on port 1116
+Read port: 1116
+WebDriver BiDi listening on ws://127.0.0.1:1104
+1665301910088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikit\\AppData\\Local\\Temp\\rust_mozprofiletwDCqn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1104/devtools/browser/f2c2e037-7cef-4d33-8944-a3c23762e1ba
+JavaScript warning: https://ads.adthrive.com/builds/core/810eb9f/es2018/js/adthrive.min.js?deployment=2022-10-07-5:adm-336:pr2728:810eb9f&experiments=rubiconFloors,recencyFrequency, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665301917615	Marionette	INFO	Stopped listening on port 1116
+[Parent 9492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nikit\AppData\Local\Temp\rust_mozprofiletwDCqn\protections.sqlite
