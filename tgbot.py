@@ -40,8 +40,8 @@ def get_text_messages(message):
     idfrom = message.from_user.id
     if mtext.lower() in ["/start", "привет"]:
         mSend("Привет, чем я могу тебе помочь?", nav_markup)
-    elif mtext == "/help":
-        mSend("Напиши привет")
+    elif mtext in ["/help", "HELP"]:
+        mSend("RATING, NEXT, PREVIOUS, /rating [имя чемпиона]")
     elif mtext == "NEXT":
         offset_start += 10
         offset_end += 10
