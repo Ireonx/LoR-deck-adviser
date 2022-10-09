@@ -15,14 +15,12 @@ df = df.drop([1, 2, 3], axis = 1)
 df1 = df["champs"].str.get_dummies("+")
 df = pd.concat([df, df1], axis = 1)
 
-print(df)
 rating = []
 
 for champ in df[df1.columns].columns:
     champ_data = df.loc[df[champ] == 1]
     l = (champ_data.values == 1).any(axis=0)
     cols = [champ_data.columns[idx] for idx in np.where(l == True)[0]]
-    print(cols)
     cols.remove(champ)
     if 6 in cols:
         cols.remove(6)

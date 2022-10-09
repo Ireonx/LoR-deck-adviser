@@ -21,6 +21,8 @@ def send_rating(hero = None):
     if hero is not None:
         for line in rf:
             if f"Champion {hero}".lower() in line.lower():
+                for i in range(2):
+                    line += rf.readline()
                 mSend(line)
                 return 0
         mSend("Чемпион не найден")
